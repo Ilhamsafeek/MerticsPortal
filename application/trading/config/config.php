@@ -23,9 +23,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = "/MerticsPortal/trading";  //http://mertics.com/
+$config['base_url'] = "http://trading.mertics.com/";  //http://mertics.com/
 //$config['base_url'] = preg_replace('@/$@', '', dirname($_SERVER['SCRIPT_NAME'])).'/';
-$config['main_base_url'] = '/MerticsPortal/';
+$config['main_base_url'] = 'http://mertics.com/';
 /*
 |--------------------------------------------------------------------------
 | Index File

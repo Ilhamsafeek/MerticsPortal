@@ -1,0 +1,54 @@
+Mertics server
+-----------------------
+Host : 
+
+
+changes to be notified
+-------------------------------
+Change how we work instead of what we do, put All "Our Solutions" into "what we do page"
+
+Remove GIT icon and Maven from technology stack
+
+---------------------------------------------------------------------------------
+
+About Mertcis
+-----------------
+Mertics (Pvt) Ltd is a Sri Lankan based software company established in February 2018, built on a strong foundation of values and ethics.
+Mertics has been able to expand its customer base to several region of the Sri Lanka within a very short period of time. 
+To provide world-class solutions to customers, we use technology innovation. 
+Mertics will target small to large sized companies and organizations all over the world. Our company will provide high quality services.
+
+
+Vision
+-------------
+Enrich the society with the best enterprise solutions and provide personalized information to the finger tips through innovative communication channels.
+Mertics has been able to expand its customer base to several other region of the globe with operators who own large market share.
+
+Mission
+---------------
+To achieve our vision, we are determined to:
+
+1. Be the recognized leader in all markets we serve. Be a customer focused organization that provides a one stop total solution.
+2. Build endeavoring relationship based on trust with our customers and partners.
+3. Generate shareholders value by sizing opportunities in Asia Pacific and other selected regional markets.
+4. Be the employer of choice that inspires performance excellent.
+
+
+
+Our culture
+----------------
+Cross Culture Fit
+--------------------
+Our open culture is our greatest pride – employees are encouraged to be ‘leaders without titles’ and
+they in turn assume great responsibilities and have shown tremendous results.
+
+Distributed Teams
+-------------------
+Our self-organized, empowered teams are motivated, customer focused, ownership driven and agile. They focus on collaborative engagement, 
+considering value and innovation in every aspect that they deal with. 
+
+
+Activities
+-------------------
+Creating opportunities for our people to shine outside their core job roles is an integral part of our work culture and our employees 
+showcase their diverse talents in so many different areas.

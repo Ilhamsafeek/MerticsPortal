@@ -17,7 +17,7 @@
 
          <div class="col-sm-3">
           <h6 class="text-uppercase mb-4 font-weight-bold">Services</h6>
-          <p><a href="<?php echo site_url('/import') ?>">Import Turkey Items to Sri Lanka</a></p>
+          <p><a href="#!">Import Turkey Items to Sri Lanka</a></p>
           <p><a href="#!">Sri Lanka Tour Guide Service</a></p>
           <p><a href="#!">Introducing New Items From Foreign Countries</a></p>
           <p><a href="#!">Export From Sri Lanka</a></p>

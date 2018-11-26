@@ -86,35 +86,6 @@ class Site extends CI_Controller {
 
 
 	}
-
-
-	//Import Items from turkey
-
-	public function import()
-	{		
-		$data['title']='Mertics Trade | The Large Station for Import and Export from Sri Lanka';		
-		$this->load->view('trading/header',$data);
-		$this->load->view('trading/navigation');
-		$this->load->view('trading/sections/slider');
-		$this->load->view('trading/sections/import-items');
-		$this->load->view('trading/footer');
-	}
-
-
-	public function import_polish(){
-		$data['title']='Mertics Trade | The Large Station for Import and Export from Sri Lanka';
-		$data['heading']='Export Quality Spices - All kinds of Sri Lankan Spices - Make your food tasty';
-		$data['background']=main_base_url('assets/img/trading/products/banner/spices-banner.jpg');
-		$data['page']='Spices';		
-		$this->load->view('trading/header',$data);
-		$this->load->view('trading/navigation');
-		$this->load->view('trading/sections/import/title');
-		$this->load->view('trading/sections/import/polish');
-		$this->load->view('trading/footer');
-
-
-	}
-	
 	
 	
 	

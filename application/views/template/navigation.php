@@ -3,7 +3,7 @@
 =========================================-->
 
 
-   <nav class="navbar fixed-top navbar-expand-md navbar-dark fixed-top" id="nav" style="padding-bottom: 8px;-webkit-transition: background-color 250ms linear;
+   <nav class="navbar fixed-top navbar-expand-md navbar-light fixed-top" id="nav" style="padding-bottom: 8px;-webkit-transition: background-color 250ms linear;
     -ms-transition: background-color 250ms linear;
     transition: background-color 250ms linear;">
 
@@ -49,28 +49,3 @@
     </nav>
 
 <!--====  End of Navigation Section  ====-->
-
-
-<!-- Success Alert-->
-
-<?php
-
-if($this->session->flashdata("message"))
-{
-
-  ?>
-  <div class="bs-example" style="padding: 5px; z-index: 999;">
-    <div class="alert alert-warning">
-      <a href="#" class="close" data-dismiss="alert">&times;</a>
-      <strong>Warning!</strong> <?php echo $this->session->flashdata("message");?>
-    </div>
-  </div>
-  <?php
-}
-?>
-
-
-
-
-
-

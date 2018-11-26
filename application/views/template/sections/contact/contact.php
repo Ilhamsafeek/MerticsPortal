@@ -1,4 +1,3 @@
-
 <!--Section: Contact v.2-->
 <section class="section contact">
 

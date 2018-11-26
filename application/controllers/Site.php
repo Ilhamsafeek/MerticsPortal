@@ -289,14 +289,12 @@ class Site extends CI_Controller {
       $this->email->message($message);
       if($this->email->send())
       {
-      	//$this->session->set_flashdata('message', 'Message Sent');
-      	echo "Message Sent";
+      	$this->session->set_flashdata('message', 'Message Sent');
       	redirect('contact');
       }
       else
       {
-      	//$this->session->set_flashdata('message', 'Error in Sending Message');
-      	echo "Error in sending message. Please try again !";
+      	$this->session->set_flashdata('message', 'Error in Sending Message');
       	redirect('contact');
       }
 

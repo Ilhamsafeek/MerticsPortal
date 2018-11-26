@@ -17,9 +17,7 @@
                  <p><?php echo $post_title ?></p>                       
    			 </div>
          	  
-           
          	  <p><?php echo $description ?></p>
-         
         </div>
        
       </div>
